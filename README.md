@@ -10,3 +10,5 @@ This repository serves the purpose of project completion of the course INDE577 D
 Dr. Randy R. Davila, lecturer of Computational Applied Mathematics and Operations Research at Rice University. [Email](rrd6@rice.edu).
 
 ---
+## Repository Description
+This repository contains a README file, and two folders named as supervised learning and unsupervised learning. Each folder has different sub-folders, in which algorithms learnt in the course and corresponding dataset used will be presented.
