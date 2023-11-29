@@ -1,1 +1,1 @@
-# INDE577
+# INDE577 Data Science and Machine Learning
