@@ -11,4 +11,17 @@ Dr. Randy R. Davila, lecturer of Computational Applied Mathematics and Operation
 
 ---
 ## Repository Description
-This repository contains a README file, and two folders named as supervised learning and unsupervised learning. Each folder has different sub-folders, in which algorithms learnt in the course and corresponding dataset used will be presented.
+This repository contains a README file, and two folders named as supervised learning and unsupervised learning. Each folder has different sub-folders, in which algorithms learnt in the course and corresponding dataset used will be presented. Detail of the folder paths are shown below.
+- **Supervised Learning**:
+    - Model Building and Error Analysis
+    - Linear Regression
+    - Logistic Regression
+    - Neural Nets
+    - K-Nearest Neighbors
+    - Decision Tree
+    - Ensemble Learning
+
+- **Unsupervised Learning**:
+    - K-Means Clustering
+    - Principle Component Analysis
+
