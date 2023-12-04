@@ -2,5 +2,6 @@
 
 ## Supervised Machine Learning
 
-This repository contains code and explanations for different supervised machine learning algorithms that I have implemented. Each algorithm is implemented using Python. Some of the algorithms are implemented from scratch using only NumPy and Pandas. The code is well documented and easy to follow. And some algorithms are also implemented using scikit-learn.
+Supervised machine learning is a subcategory of machine learning, which uses an input and expected output value to train the model. This repository shows all the supervised machine learning algorithm covered in class. Algorithms are all implemented through Python, and modules like NumPy, pandas, and scikit-learn are used.
+
 ---
