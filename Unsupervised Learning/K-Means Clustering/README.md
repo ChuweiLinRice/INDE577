@@ -9,7 +9,7 @@ k centroids, one for each cluster. The centroids are the initial representative 
 
 3. Update Centroids: Recalculate the centroid of each cluster by taking the mean of all the data points assigned to that cluster.
 
-Repeat: Repeat the assignment and centroid update steps until convergence. Convergence occurs when the assignments no longer change or change very minimally.
+4. Repeat: Repeat the assignment and centroid update steps until convergence. Convergence occurs when the assignments no longer change or change very minimally.
 
 The purpose of K-means algorithm is to minimize the sum of squared distances within each cluster, making the clusters as internally homogeneous as possible. However, the algorithm does not guarantee a global minimum; different initializations might lead to different final cluster assignments.
 
