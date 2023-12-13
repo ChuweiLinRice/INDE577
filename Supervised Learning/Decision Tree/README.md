@@ -1,6 +1,6 @@
 ## Dataset Description
 
-Adapted from https://github.com/selva86/datasets/blob/master/BostonHousing.csv. This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston.
-It contains approximately 500 rows with features such as CRIM - per capita crime rate by town and ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+Adapted from https://www.kaggle.com/code/gantalaswetha/usa-housing-dataset-linear-regression/notebook. This dataset contains information of United States housing prices.
+It contains 5000 rows with features such as average housing income and average housing age.
 
-Detailed information regarding each feature can be found at https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset.
+Detailed information regarding each feature can be found at the Kaggle website.
