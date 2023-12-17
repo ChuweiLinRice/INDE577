@@ -7,7 +7,7 @@ This repository serves the purpose of project completion of the course INDE577 D
 
 ---
 ## Course Instructor
-Dr. Randy R. Davila, lecturer of Computational Applied Mathematics and Operations Research at Rice University. [Email](rrd6@rice.edu).
+Dr. Randy R. Davila, lecturer of Computational Applied Mathematics and Operations Research at Rice University. [Email](rrd6@rice.edu). This repository is also largely inspired by his repository https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022.
 
 ---
 ## Repository Description
